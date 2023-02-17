@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction of Cats</title>
+</head>
+<body bgcolor="yellow">
+    <table>
+    <h1>Các mèo của năm</h1>
+    <img src="https://c.pxhere.com/photos/c2/44/money_cat_wealth_canadian_money_naked_man-661530.jpg!d" alt="" width="120px">
+    Hình 1
+    <br>
+    <img src="https://haycafe.vn/wp-content/uploads/2022/02/anh-meo-cute-hinh-cute-meo.jpg" alt="" width="120Px">
+    Hình 2
+    <br>
+    <img src="https://img.meta.com.vn/Data/image/2021/09/22/anh-meo-cute-de-thuong-dang-yeu-43.jpg" alt="" width="120px">
+    Hình 3
+    <br>
+    <img src="https://img.meta.com.vn/Data/image/2021/09/22/anh-meo-cute-de-thuong-dang-yeu-42.jpg" alt="" width="120px">
+    Hình 4
+    <br>
+    <img src="https://img.meta.com.vn/Data/image/2021/09/22/anh-meo-cute-de-thuong-dang-yeu-41.jpg" alt="" width="120px">
+    Hình 5
+    <br>
+    <img src="https://img.meta.com.vn/Data/image/2021/09/22/anh-meo-cute-de-thuong-dang-yeu-9.jpg" alt="" width="120opx">
+    Hình 6
+    <br>
+    <img src="https://img.meta.com.vn/Data/image/2021/09/22/anh-meo-cute-de-thuong-dang-yeu-11.jpg" alt="" width="120px">
+    Hình 7
+    </table>
+</body>
+</html>
