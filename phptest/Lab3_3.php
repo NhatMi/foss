@@ -11,8 +11,8 @@
         font-family: 'Orbitron', sans-serif;
         background-color: #dcdbe1;
         color: black;
-        width: 380px;
-        height: 100px;
+        width: 700px;
+        height: 80px;
         border: 2px solid black;
         border-collapse: collapse;
     }
@@ -20,36 +20,41 @@
         margin-left: auto;
         margin-right: auto;
         text-align: center;
-
+    }
+    .ghichu{
+        width: 500px;
+        height: 450px;
+    }
+    .btn-bot{
+        padding: 10px;
     }
     h1{
         text-align: center;
     }
-    input{
-        width: auto;
-    }
-    .box_3{
-        font-family: 'Orbitron', sans-serif;
-        background: #3b759e;
-        color: black;
-        border: 2px solid rgb(17, 213, 27);
-        border-collapse: collapse;
-        width: 720px;
-        height: 250px;
-    }
 </style>
 <body>
-<tr>
+    <tr>
         <h1>TÌM HIỂU KỸ THUẬT DOM TRONG JAVASCRIPT <br>
             (DOM : Document Object Model)</h1>
     </tr>
     <table class="display-box" border="1">
-    <tr>
-        <td>Giá trị</td>
-        <td> <input type="text"></td>
-    </tr>
-    <td colspan="2">
-            <input type="button" value="Thêm">
-            <input type="button" value="Thêm ngẫu nhiên">
-        </td>
-    </table>
+        <tr>
+            <td>Số dòng</td>
+            <td> <input type="text" value="0"></td>
+            <td> <button>Thêm</button></td>
+            <td> <button>Thêm ngẫu nhiên</button></td>
+        </tr>
+        <tr>
+            <td colspan="4"><input class="ghichu" type="text"></td>
+        </tr class="btn-bot">
+            <td colspan="4">
+                <button>Xuất mảng</button>
+                <button>Tìm max</button>
+                <button>Tìm min</button>
+                <button>Tìm kiếm</button>
+                <button>Cập nhật</button>
+                <button>Xóa</button>
+            </td>
+        </table>
+</body>
+</html>
